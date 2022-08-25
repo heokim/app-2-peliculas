@@ -1,5 +1,5 @@
 # app-2-peliculas
-app de peliculas, para poder verlas
+App de peliculas, para poder listado de peliculas de Lucas Moy (youtube)
 
 # Getting Started with Create React App
 
